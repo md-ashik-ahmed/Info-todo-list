@@ -1,8 +1,10 @@
-# React + Vite
+# Todo List Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This Todo List site is designed for react js and chakra-ui/react.
 
-Currently, two official plugins are available:
+### This site has dark and white modes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Todo list add, edit, delete, and delete all functions. 
+
+## This site visit now https://todo-app108.netlify.app/
+
